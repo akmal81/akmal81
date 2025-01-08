@@ -12,7 +12,19 @@
 
 ###
 
+<p align="left">Location</p>
+
+###
+
 <p align="left">Khulna Bangladesh</p>
+
+###
+
+<p align="left">Email</p>
+
+###
+
+<p align="left">akmalforu@gmail.com</p>
 
 ###
 
@@ -20,7 +32,7 @@
 
 ###
 
-<p align="left">Hi there! I'm a beginner Front-End Developer excited to start my journey in web development. I'm learning and working with:<br><br>Front-End Skills: HTML, CSS, Tailwind CSS, JavaScript, React<br>Exploring Back-End: Node.js, MongoDB<br>🌱 I’m passionate about building simple and interactive web pages while improving my skills every day.<br><br>💡 I believe in continuous learning and enjoy experimenting with new tools and technologies to grow as a developer.<br><br>Feel free to check out my projects or connect with me—let's grow together!</p>
+<p align="left">Hi there! I'm a beginner Front-End Developer excited to start my journey in web development. I'm learning and working with:<br><br>Front-End Skills: HTML, CSS, Tailwind CSS, JavaScript, React<br><br>Exploring Back-End: Node.js, MongoDB<br><br>🌱 I’m passionate about building simple and interactive web pages while improving my skills every day.<br><br>💡 I believe in continuous learning and enjoy experimenting with new tools and technologies to grow as a developer.<br><br>Feel free to check out my projects or connect with me—let's grow together!</p>
 
 ###
 
@@ -47,6 +59,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
+###
+
+<h3 align="left">Connect wtih me</h3>
 
 ###
 
