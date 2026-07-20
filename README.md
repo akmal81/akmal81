@@ -1,85 +1,63 @@
-<div align="center">
-  <img height="253" src="https://i.ibb.co.com/qxZJCRf/Frame-2.png"  />
-</div>
+# Hi there, I'm a Full-Stack Developer 👋
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Node.js+%7C+Express.js;Next.js+%7C+Prisma;PostgreSQL+Expert;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</p>
 
-<h1 align="left">Akmal Hossain</h1>
+---
 
-###
+## 🚀 About Me
 
-<p align="left">Fornt end developer</p>
+I am a passionate **Full-Stack Web Developer** specializing in building robust, scalable, and high-performance server-side applications and dynamic front-end experiences. With strong expertise in **Node.js**, **Express**, **Next.js**, **Prisma**, and **PostgreSQL**, I focus on writing clean, maintainable code that delivers exceptional user experiences and solves real-world business problems.
 
-###
+- 🔭 I’m currently working on advanced scalable backend systems and Full-Stack Next.js projects.
+- 🌱 I’m always exploring performance optimization techniques for PostgreSQL and Prisma ORM.
+- 💬 Ask me about **Backend Architecture, REST APIs, Database Design, and SSR/SSG**.
+- 📫 How to reach me: **your.email@example.com**
 
-<p align="left">Location</p>
+---
 
-###
+## 🛠️ Tech Stack & Skills
 
-<p align="left">Khulna Bangladesh</p>
+### 🌐 Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-###
-
-<p align="left">Email</p>
-
-###
-
-<p align="left">akmalforu@gmail.com</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">Hi there! I'm a beginner Front-End Developer excited to start my journey in web development. I'm learning and working with:<br><br>Front-End Skills: HTML, CSS, Tailwind CSS, JavaScript, React<br><br>Exploring Back-End: Node.js, MongoDB<br><br>🌱 I’m passionate about building simple and interactive web pages while improving my skills every day.<br><br>💡 I believe in continuous learning and enjoy experimenting with new tools and technologies to grow as a developer.<br><br>Feel free to check out my projects or connect with me—let's grow together!</p>
-
-###
-
-<p align="left">💻 Current Project:<br><br>💡Building a restaurant booking website using Next.js</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h3 align="left">Connect wtih me</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/akmalhossain/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+### 💻 Frontend & Tools
+<!-- Skill Icons generated using tandpfun/skill-icons -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,git,github,vscode,postman,docker" />
   </a>
-  <a href="https://x.com/akmalhossain_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akmal81&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akmal81&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Game
+<!-- Generated using contribution-snake action -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<p align="center">
+  Let's connect and build something amazing together! 💼
+  <br />
+  <b><a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> · <a href="https://twitter.com/YOUR_TWITTER">Twitter</a> · <a href="mailto:your.email@example.com">Email</a></b>
+</p>
