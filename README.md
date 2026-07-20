@@ -13,7 +13,7 @@ I am a passionate **Full-Stack Web Developer** specializing in building robust, 
 - 🔭 I’m currently working on advanced scalable backend systems and Full-Stack Next.js projects.
 - 🌱 I’m always exploring performance optimization techniques for PostgreSQL and Prisma ORM.
 - 💬 Ask me about **Backend Architecture, REST APIs, Database Design, and SSR/SSG**.
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **akmalforu@gmail.com**
 
 ---
 
