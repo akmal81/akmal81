@@ -58,5 +58,5 @@ I am a passionate **Full-Stack Web Developer** specializing in building robust, 
 <p align="center">
   Let's connect and build something amazing together! 💼
   <br />
-  <b><a href="#">LinkedIn</a> · <a href="#">Twitter</a> · <a href="mailto:your.email@example.com">Email</a></b>
+  <b><a href="#">LinkedIn</a> · <a href="#">Twitter</a> · <a href="mailto:akmalforu@gmail.com">Email</a></b>
 </p>
