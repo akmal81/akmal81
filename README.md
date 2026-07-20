@@ -38,9 +38,12 @@ I am a passionate **Full-Stack Web Developer** specializing in building robust, 
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akmal81&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal81&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="48%" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal81&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="60%" />
 </p>
 
 ---
