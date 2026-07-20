@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/akmal81/akmal81/blob/main/banner.png?raw=true" alt="Akmal's Banner" width="100%">
+</p>
+
 # Hi there, I'm a Full-Stack Developer 👋
 
 <p align="center">
