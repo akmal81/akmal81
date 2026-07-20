@@ -28,7 +28,6 @@ I am a passionate **Full-Stack Web Developer** specializing in building robust, 
 </p>
 
 ### 💻 Frontend & Tools
-<!-- Skill Icons generated using tandpfun/skill-icons -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,git,github,vscode,postman,docker" />
@@ -47,7 +46,7 @@ I am a passionate **Full-Stack Web Developer** specializing in building robust, 
 ---
 
 ## 🐍 Contribution Snake Game
-<!-- Generated using contribution-snake action -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akmal81/akmal81/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akmal81/akmal81/output/github-contribution-grid-snake.svg">
@@ -59,5 +58,5 @@ I am a passionate **Full-Stack Web Developer** specializing in building robust, 
 <p align="center">
   Let's connect and build something amazing together! 💼
   <br />
-  <b><a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> · <a href="https://twitter.com/YOUR_TWITTER">Twitter</a> · <a href="mailto:your.email@example.com">Email</a></b>
+  <b><a href="#">LinkedIn</a> · <a href="#">Twitter</a> · <a href="mailto:your.email@example.com">Email</a></b>
 </p>
